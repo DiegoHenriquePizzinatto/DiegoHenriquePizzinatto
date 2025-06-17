@@ -16,6 +16,6 @@
 ![](https://github-profile-trophy.vercel.app/?username= DiegoHenriquePizzinatto&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id= DiegoHenriquePizzinatto&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=DiegoHenriquePizzinatto&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
